@@ -12,6 +12,7 @@ AlphaCamp學期2-2，A11作業專案的Loveletter，
 ## Screenshots
 
 ![首頁](./homepage.PNG)
+![好友介面](./friendList.PNG)
 
 ### 安裝與執行步驟
 
